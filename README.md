@@ -4,7 +4,7 @@ Welcome to my Rock Paper Scissors repo! 🎮 This is a simple Python implementat
 # Features
 * User Input: Players can choose Rock, Paper, or Scissors by entering a corresponding number.
 * Computer Opponent: The computer randomly selects its choice, providing a fun challenge.
-> * Game Logic: The program determines the winner based on the rules:
+* Game Logic: The program determines the winner based on the rules:
 > * Rock beats Scissors
 > * Scissors beats Paper
 > * Paper beats Rock
